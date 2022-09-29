@@ -1,2 +1,2 @@
-# Stats21-demo
+# Stats-21
 stats 21 demonstration
